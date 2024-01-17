@@ -1,6 +1,8 @@
 # ecs-codedeploy-blue-green
 Terraform module to perform Blue/Green deployments in ECS using CodeDeploy
 
+Detailed walkthrough can be found in [my dev.to post](https://dev.to/aws-builders/ecs-bluegreen-deployment-with-codedeploy-and-terraform-3gf1)
+
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
 
